@@ -1,2 +1,6 @@
-streamlit
-openai
+streamlit>=1.34
+openai>=1.0
+pypdf>=4.0
+numpy>=1.26
+tiktoken>=0.7
+tenacity>=8.2
