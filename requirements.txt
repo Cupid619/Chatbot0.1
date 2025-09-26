@@ -4,3 +4,4 @@ pypdf>=4.0
 numpy>=1.26
 tiktoken>=0.7
 tenacity>=8.2
+boto3>=1.34
